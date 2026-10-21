@@ -1,0 +1,8 @@
+{
+  "name": "Remix Doctor\u0027s care",
+  "description": "Bangladesh\u0027s leading telemedicine and online healthcare platform for 24/7 doctor consultations, home diagnostics, and health packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

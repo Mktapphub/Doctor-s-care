@@ -97,7 +97,7 @@ export const DOCTORS_DATA: Doctor[] = [
     reviewCount: 12,
     fee: 550,
     isOnline: true,
-    avatar: '/assets/images/doctor_farjana.png',
+    avatar: '/assets/aistudio/doctor_farjana.png',
     hospital: 'Square Hospital & Dietetics Clinic, Dhaka',
     languages: ['Bangla', 'English'],
     about: 'Experienced clinical nutritionist & diet consultant specializing in therapeutic diet plans, gestational nutrition, weight management, diabetes meal planning, and metabolic wellness.',

@@ -40,16 +40,24 @@ import {
   Info,
 } from 'lucide-react';
 import { useApp } from '../context/AppContext';
+import img_hero_telemedicine_1792346318867 from '../assets/images/hero_telemedicine_1792346318867.jpg';
+import img_mother_child_health_1792348643490 from '../assets/images/mother_child_health_1792348643490.jpg';
+import img_doctor_video_call_1792346319246 from '../assets/images/doctor_video_call_1792346319246.jpg';
+import img_family_health_care_1792346319788 from '../assets/images/family_health_care_1792346319788.jpg';
+import img_doctor_patient_exam_1792348644757 from '../assets/images/doctor_patient_exam_1792348644757.jpg';
+import img_diagnostic_sample_1792346319850 from '../assets/images/diagnostic_sample_1792346319850.jpg';
+import img_family_video_call_1792348644093 from '../assets/images/family_video_call_1792348644093.jpg';
+import img_corporate_partner_1792350582214 from '../assets/images/corporate_partner_1792350582214.jpg';
 
 // Image assets matching reference screenshot sections
-const HERO_DOCTOR_IMG = '/src/assets/images/hero_telemedicine_1792346318867.jpg';
-const HERO_MOTHER_CHILD_IMG = '/src/assets/images/mother_child_health_1792348643490.jpg';
-const DOCTOR_WAVING_IMG = '/src/assets/images/doctor_video_call_1792346319246.jpg';
-const FAMILY_MAIN_IMG = '/src/assets/images/family_health_care_1792346319788.jpg';
-const DOCTOR_EXAM_IMG = '/src/assets/images/doctor_patient_exam_1792348644757.jpg';
-const DIAGNOSTIC_SAMPLE_IMG = '/src/assets/images/diagnostic_sample_1792346319850.jpg';
-const FAMILY_PHONE_IMG = '/src/assets/images/family_video_call_1792348644093.jpg';
-const CORPORATE_PARTNER_IMG = '/src/assets/images/corporate_partner_1792350582214.jpg';
+const HERO_DOCTOR_IMG = img_hero_telemedicine_1792346318867;
+const HERO_MOTHER_CHILD_IMG = img_mother_child_health_1792348643490;
+const DOCTOR_WAVING_IMG = img_doctor_video_call_1792346319246;
+const FAMILY_MAIN_IMG = img_family_health_care_1792346319788;
+const DOCTOR_EXAM_IMG = img_doctor_patient_exam_1792348644757;
+const DIAGNOSTIC_SAMPLE_IMG = img_diagnostic_sample_1792346319850;
+const FAMILY_PHONE_IMG = img_family_video_call_1792348644093;
+const CORPORATE_PARTNER_IMG = img_corporate_partner_1792350582214;
 
 // 12 FAQ questions and answers strictly covering required topics
 const FAQ_ITEMS = [

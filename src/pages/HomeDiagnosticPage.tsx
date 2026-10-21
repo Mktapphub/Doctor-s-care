@@ -20,8 +20,9 @@ import {
 import { DIAGNOSTIC_TESTS } from '../data/mockData';
 import { useApp } from '../context/AppContext';
 import { DiagnosticTest, DiagnosticOrder } from '../types';
+import img_diagnostic_sample_1792346319850 from '../assets/images/diagnostic_sample_1792346319850.jpg';
 
-const DIAGNOSTIC_SAMPLE_IMG = '/src/assets/images/diagnostic_sample_1792346319850.jpg';
+const DIAGNOSTIC_SAMPLE_IMG = img_diagnostic_sample_1792346319850;
 
 const POPULAR_LOCATIONS = [
   'Mohammadpur, Dhaka',

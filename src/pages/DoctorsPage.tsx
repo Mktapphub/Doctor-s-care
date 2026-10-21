@@ -18,14 +18,19 @@ import { DOCTORS_DATA } from '../data/mockData';
 import { DoctorCard } from '../components/DoctorCard';
 import { Doctor, Appointment } from '../types';
 import { useApp } from '../context/AppContext';
+import img_doctor_video_call_1792346319246 from '../assets/images/doctor_video_call_1792346319246.jpg';
+import img_doctor_patient_exam_1792348644757 from '../assets/images/doctor_patient_exam_1792348644757.jpg';
+import img_mother_child_health_1792348643490 from '../assets/images/mother_child_health_1792348643490.jpg';
+import img_hero_telemedicine_1792346318867 from '../assets/images/hero_telemedicine_1792346318867.jpg';
+import img_family_health_care_1792346319788 from '../assets/images/family_health_care_1792346319788.jpg';
 
 // Image assets for "Your Offers" tiles from existing assets
 const OFFER_IMAGES = [
-  '/src/assets/images/doctor_video_call_1792346319246.jpg',
-  '/src/assets/images/doctor_patient_exam_1792348644757.jpg',
-  '/src/assets/images/mother_child_health_1792348643490.jpg',
-  '/src/assets/images/hero_telemedicine_1792346318867.jpg',
-  '/src/assets/images/family_health_care_1792346319788.jpg',
+  img_doctor_video_call_1792346319246,
+  img_doctor_patient_exam_1792348644757,
+  img_mother_child_health_1792348643490,
+  img_hero_telemedicine_1792346318867,
+  img_family_health_care_1792346319788,
 ];
 
 const OFFER_TILES = [

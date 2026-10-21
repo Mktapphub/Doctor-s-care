@@ -139,7 +139,7 @@ export const DOCTORS_DATA: Doctor[] = [
     reviewCount: 98,
     fee: 1200,
     isOnline: true,
-    avatar: '/assets/images/doctor_farjana.png',
+    avatar: 'https://images.unsplash.com/photo-1594824813589-2911b33e4b47?auto=format&fit=crop&q=80&w=400',
     hospital: 'Square Hospital, Dhaka',
     languages: ['Bangla', 'English'],
     about: 'Senior Consultant in Obstetrics and Gynaecology. Expertise in high-risk antenatal care, gestational diabetes management, PCOS, cervical screening, and reproductive health.',
